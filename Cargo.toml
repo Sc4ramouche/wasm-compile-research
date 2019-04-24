@@ -1,0 +1,6 @@
+[package]
+name = "rust_module"
+version = "1.0.0"
+
+[lib]
+crate-type = ["cdylib"]
